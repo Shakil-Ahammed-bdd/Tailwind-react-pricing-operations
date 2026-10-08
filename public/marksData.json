@@ -1,0 +1,112 @@
+[
+  {
+    "id": "student-001",
+    "name": "Rahim",
+    "marks": {
+      "math": 78,
+      "english": 85,
+      "science": 72,
+      "ict": 88
+    },
+    "total": 323
+  },
+  {
+    "id": "student-002",
+    "name": "Karim",
+    "marks": {
+      "math": 65,
+      "english": 74,
+      "science": 81,
+      "ict": 70
+    },
+    "total": 290
+  },
+  {
+    "id": "student-003",
+    "name": "Hasan",
+    "marks": {
+      "math": 92,
+      "english": 88,
+      "science": 95,
+      "ict": 90
+    },
+    "total": 365
+  },
+  {
+    "id": "student-004",
+    "name": "Sakib",
+    "marks": {
+      "math": 56,
+      "english": 68,
+      "science": 62,
+      "ict": 75
+    },
+    "total": 261
+  },
+  {
+    "id": "student-005",
+    "name": "Nabil",
+    "marks": {
+      "math": 84,
+      "english": 79,
+      "science": 87,
+      "ict": 82
+    },
+    "total": 332
+  },
+  {
+    "id": "student-006",
+    "name": "Tanvir",
+    "marks": {
+      "math": 71,
+      "english": 65,
+      "science": 76,
+      "ict": 69
+    },
+    "total": 281
+  },
+  {
+    "id": "student-007",
+    "name": "Fahim",
+    "marks": {
+      "math": 88,
+      "english": 91,
+      "science": 84,
+      "ict": 93
+    },
+    "total": 356
+  },
+  {
+    "id": "student-008",
+    "name": "Arif",
+    "marks": {
+      "math": 63,
+      "english": 58,
+      "science": 70,
+      "ict": 64
+    },
+    "total": 255
+  },
+  {
+    "id": "student-009",
+    "name": "Imran",
+    "marks": {
+      "math": 95,
+      "english": 89,
+      "science": 92,
+      "ict": 96
+    },
+    "total": 372
+  },
+  {
+    "id": "student-010",
+    "name": "Rafi",
+    "marks": {
+      "math": 76,
+      "english": 82,
+      "science": 68,
+      "ict": 79
+    },
+    "total": 305
+  }
+]
